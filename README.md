@@ -34,25 +34,25 @@ Vascular lesion
 
 
 ## Technologies Used
-import pathlib
-import tensorflow as tf
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-import os
-import PIL
-from tensorflow import keras
-from tensorflow.keras import layers
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv2D
-from tensorflow.keras.layers import MaxPool2D
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Flatten
-from tensorflow.keras.layers import Dense
-from tensorflow.keras.layers import Activation
-from tensorflow.keras.layers import Dropout
-from tensorflow.keras.layers import BatchNormalization
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
+- import pathlib
+- import tensorflow as tf
+- import matplotlib.pyplot as plt
+- import numpy as np
+- import pandas as pd
+- import os
+- import PIL
+- from tensorflow import keras
+- from tensorflow.keras import layers
+- from tensorflow.keras.models import Sequential
+- from tensorflow.keras.layers import Conv2D
+- from tensorflow.keras.layers import MaxPool2D
+- from tensorflow.keras.models import Sequential
+- from tensorflow.keras.layers import Flatten
+- from tensorflow.keras.layers import Dense
+- from tensorflow.keras.layers import Activation
+- from tensorflow.keras.layers import Dropout
+- from tensorflow.keras.layers import BatchNormalization
+- from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
